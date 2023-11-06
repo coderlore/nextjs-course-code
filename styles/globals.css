@@ -31,3 +31,12 @@ ul {
   margin: auto;
   text-align: center;
 }
+
+a {
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
